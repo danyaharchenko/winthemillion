@@ -18,7 +18,7 @@
 ### Установка и запуск
 1. Склонируйте репозиторий:
    ```bash
-   git clone https://github.com/yourusername/winthemillion.git
+   git clone https://github.com/danyaharchenko/winthemillion
    cd winthemillion
    ```
 2. Запустите игру:
